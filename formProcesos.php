@@ -1,5 +1,6 @@
 <?php
 
+
 $nombre = $_POST["name"];
 $ciudad = $_POST["direction"];
 $email = $_POST["email"];

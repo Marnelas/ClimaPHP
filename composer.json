@@ -1,0 +1,14 @@
+{
+    "name": "vendor/ejercicio1-p-h-p",
+    "description": "Description of project ejercicio1PHP.",
+    "authors": [
+        {
+            "name": "Marnelas",
+            "email": "jmarnelasbenito@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "vlucas/phpdotenv": "dev-master"
+    }
+}
